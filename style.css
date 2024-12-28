@@ -1,0 +1,82 @@
+a {
+    color: #242424 ;
+}
+.img {
+    margin-left: 30%;
+    height: 450px;
+    weight: 280px;
+}
+em {
+    color: #A5B4FC;
+}
+h1 {
+    font-size: 3.5em;
+    color: #A5B4FC;
+    font-family: 'calibri';
+}
+h2 {
+    color: #F9F8FF;
+    font-family: Arial;
+}
+p {
+    color: #F9F8FF;
+    font-size: 1.1em;
+    font-family: 'arial';
+}
+ul {
+    color: #F9F8FF;
+    font-size: 1.1em;
+    font-family: 'arial';
+}
+a {
+    font-size: 1em;
+    text-decoration: none;
+}
+.cta{
+    margin-left: 41.67%;
+    background: linear-gradient(#8e8685, #acaeed);
+    color: white;
+    border-radius: 50px;
+}
+.entete, 
+.pied-de-page{
+    background-color: white;
+}
+body {
+    background-color: #1F2039;
+}
+.carre-contenu {
+    border-bottom: 1px solid #8e86b5;
+    border-right: 5px solid #8e86b5;
+}
+.btn {
+    
+    background-color: #7782be;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+
+}
+.btn:hover {
+    background-color: blue;
+    box-shadow: 0 8px 16px rgba(176, 180, 207, 0.5);
+    transform: scale(1.1);
+}
+a:hover {
+    text-decoration: underline blue;
+}
+.cta:hover {
+    text-decoration: none;
+    background: linear-gradient(#696484, #8788BA);
+}
+#twitt {
+    margin-left: 850px;
+}
+.lien-icone:hover {
+    opacity: 0.5;
+}
